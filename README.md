@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @harikrishnannairu
 - 👀 I’m interested to work as a developer
-- I’m currently learning python
+- I'm currently working as Angular Developer
+- I have learned  python
 - I’m curious to study data analatics 
 
 <!---
